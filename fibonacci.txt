@@ -1,0 +1,4 @@
+se declaran las dos primeras variables que siempre son iguales 0,1
+se pide cuantos numeros se quieren sacar
+se crea un bucle en el que se vayan aumentando los numeros y guardando los anteriores para despues escribirlos
+al terminar se escriben los numeros
